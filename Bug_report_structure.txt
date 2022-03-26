@@ -1,0 +1,13 @@
+1) ID 
+2) Description
+- steps to run
+- actual result
+-expected result
+3) Project - name of our project
+4) Component - place where we have found a defect
+5) Version of the build
+6) Severity
+7) Priority
+8) Status
+9) Author
+10) Appointment
